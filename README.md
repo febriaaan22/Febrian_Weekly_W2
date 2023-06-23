@@ -38,7 +38,7 @@ Deployment
 ***
 
 This project is uploaded to github and deployed it on Netlify. Here's the link below:
-()
+(https://irengfebrianeras.netlify.app/)
 
 This project is far from perfect, and I need your feedback about this website to be better on the next project.
 P.s: this is the first time I'm making hamburger section with alot of trial and error 
